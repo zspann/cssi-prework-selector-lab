@@ -5,7 +5,3 @@ function pSelector(){
   return $('p');
 }
 */
-
-function h1Selector(){
-  return $('h1');
-}

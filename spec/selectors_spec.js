@@ -1,7 +1,7 @@
 'use-strict';
 describe('Selectors', function() {
   beforeEach(function() {
-    loadFixtures('index.html');
+    loadFixtures('');
   });
 
   it('#h1Selector should select all h1\'s', function() {

@@ -44,7 +44,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
   jasmine.Fixtures = function () {
     this.containerId = 'jasmine-fixtures'
     this.fixturesCache_ = {}
-    this.fixturesPath = 'spec/javascripts/fixtures'
+    this.fixturesPath = 'https://upperlinecode.github.io/cssi-prework-selector-lab/'
   }
 
   jasmine.Fixtures.prototype.set = function (html) {
